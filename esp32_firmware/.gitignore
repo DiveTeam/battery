@@ -1,0 +1,10 @@
+.control/pio
+.control/vscode/.browse.c_cpp.db*
+.control/vscode/c_cpp_properties.json
+.control/vscode/launch.json
+.control/vscode/ipch
+.test/pio
+.test/vscode/.browse.c_cpp.db*
+.test/vscode/c_cpp_properties.json
+.test/vscode/launch.json
+.test/vscode/ipch

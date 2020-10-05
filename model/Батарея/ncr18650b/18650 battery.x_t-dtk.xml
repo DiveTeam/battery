@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="C:\Program Files\DATAKIT\CrossManager2017_64bit\schema\dtk_xsl\dtk_174.xsl"?>
+<Log>
+<DtkApiVersion>174</DtkApiVersion>
+<DtkDllVersion>20171003</DtkDllVersion>
+<ProductMode>Dtk</ProductMode>
+<InputFormat>SOLIDWORKS</InputFormat>
+<OutputFormat>PARASOLID</OutputFormat>
+<HealingFlag>0</HealingFlag>
+<ConfigFile>C:\Users\Tom\AppData\Roaming\Datakit\CrossManager\dtkConfig.dtk</ConfigFile>
+<FileName><![CDATA[C:\Users\Tom\Downloads\panasonic-ncr18650b-1.snapshot.5\18650 battery.SLDASM]]></FileName>
+<FileVersion>Official version for SolidWorks 2016 </FileVersion>
+<errors>
+<error><message><![CDATA[dtkErrorLicence]]></message><type><![CDATA[Conversion Error]]></type></error>
+</errors>
+<configuration>
+<path><![CDATA[C:\Users\Tom\AppData\Roaming\Datakit\CrossManager\dtkConfig.dtk]]></path>
+<section>
+<name><![CDATA[XMT CONF]]></name>
+<config><parameter>WRITE_BODY_ATTRIBUTES</parameter><value>1</value></config>
+</section>
+<section>
+<name><![CDATA[TRANSFORMATION ENTITES]]></name>
+<config><parameter>KEEP_ASSEMBLY</parameter><value>1</value></config>
+<config><parameter>BODY_TO_NURBS</parameter><value>0</value></config>
+<config><parameter>EXPLOSE_GROUP</parameter><value>1</value></config>
+<config><parameter>MERGE_BODIES</parameter><value>0</value></config>
+</section>
+<section>
+<name><![CDATA[FILTRAGE DE DOMAINE]]></name>
+<config><parameter>COURBE_LIM_3D</parameter><value>0</value></config>
+<config><parameter>FILAIRE</parameter><value>0</value></config>
+<config><parameter>FDT</parameter><value>0</value></config>
+<config><parameter>FEATURES</parameter><value>1</value></config>
+<config><parameter>META_PARAMETERS</parameter><value>0</value></config>
+<config><parameter>REFERENTIEL</parameter><value>1</value></config>
+<config><parameter>MESH</parameter><value>1</value></config>
+<config><parameter>RENDER_INFOS</parameter><value>1</value></config>
+<config><parameter>MODEL_DISPLAY</parameter><value>0</value></config>
+<config><parameter>DRAW</parameter><value>0</value></config>
+<config><parameter>CONSTRUCT_SOLIDS</parameter><value>1</value></config>
+</section>
+<section>
+<name><![CDATA[MODIFICATION D'ATTRIBUT]]></name>
+<config><parameter>VISIBILITY</parameter><value>-1</value></config>
+<config><parameter>ASM_VISIBILITY</parameter><value>-1</value></config>
+<config><parameter>FDT_VISIBILITY</parameter><value>-1</value></config>
+</section>
+<section>
+<name><![CDATA[DIALOG BOX]]></name>
+<config><parameter>CHOOSE_AXIS</parameter><value>0</value></config>
+<config><parameter>CHOOSE_IN_CATALOG</parameter><value>-1</value></config>
+<config><parameter>CHOOSE_LAYER_FILTER</parameter><value>0</value></config>
+<config><parameter>CHOOSE_IN_ASSEMBLY_TREE</parameter><value>0</value></config>
+</section>
+<section>
+<name><![CDATA[SCISSION FICHIER]]></name>
+<config><parameter>PAR_SOLIDE</parameter><value>0</value></config>
+<config><parameter>PER_CATALOG</parameter><value>0</value></config>
+</section>
+</configuration>
+<Conversion>
+<Start>  20:36:45</Start>
+<End>  20:36:45</End>
+<Duration>0 sec</Duration>
+</Conversion>
+</Log>
